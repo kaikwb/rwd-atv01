@@ -1,0 +1,21 @@
+.header {
+    width: 100%;
+    /*text-align: center;*/
+    background-color: cornflowerblue;
+    align-content: center;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    max-width: 200px;
+}
+
+.header-name {
+    color: white;
+    font-size: 48px;
+    float: right;
+}
